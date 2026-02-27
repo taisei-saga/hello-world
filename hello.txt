@@ -1,0 +1,2 @@
+#　例： hello.txtの内容
+Hello, GitHub!
